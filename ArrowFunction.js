@@ -9,6 +9,8 @@ function saySomething2 (name,age){
   console.log(name, age);
 }
 saySomething2('Rahim', 26);
+
+
 // Arrow Function
 
 let saySomething = () =>{
